@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/36ea2b83-bd99-44e9-9a71-b233cca0d6ed/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Chat-Room",
+    "appService.deploySubpath": "."
+}
